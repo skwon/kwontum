@@ -1,0 +1,1 @@
+Chan and I are working to be working on creating a "Crunchbase" style database for Charlotte-area startups. We want to track company description, company category, company news, funding, founding date/year, founders/key people, website URL and Twitter handle. Later, we could add data such as company size and other relevant information. 
